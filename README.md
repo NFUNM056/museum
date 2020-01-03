@@ -83,18 +83,26 @@
 
 #### 3. 二维码扫描模式
 
-![sao.png](https://github.com/NFUNM056/museum/blob/master/sao.png "sao.png")
+![二维码扫描.png](https://github.com/NFUNM056/museum/blob/master/saomiao.png "saomiao.png")
 **二维码扫描中**
-![result.png](https://github.com/NFUNM056/museum/blob/master/result.png "result.png")
+
+![二维码扫描结果.png](https://github.com/NFUNM056/museum/blob/master/result.png "result.png")
 **扫描结果**
 
 
 
 #### 4. 语音识别模式
 
-![speak.png](https://github.com/NFUNM056/museum/blob/master/speak.png "speak.png")
+- 语音输入藏品名称
+
+![语音输入藏品名称.png](https://github.com/NFUNM056/museum/blob/master/speak.png "speak.png")
+
+![语音输入结果.png](https://github.com/NFUNM056/museum/blob/master/speakresult.png "speakresult.png")
 **搜索：语音输入搜索**
-![back.png](https://github.com/NFUNM056/museum/blob/master/back.png "back.png")
+
+
+- 语音输入反馈
+![语音输入反馈.png](https://github.com/NFUNM056/museum/blob/master/response.png "response.png")
 **反馈：语音识别文字**
 
 
