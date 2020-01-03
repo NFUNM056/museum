@@ -69,9 +69,9 @@
 
 ### （九）使用者交互原型
 
-- 原型文档下载区（超链接）
+- [原型文档交互展示]( http://nfunm056.gitee.io/museum )
 
-- 原型文档交互展示（超链接）
+- [原型文档下载区]( https://gitee.com/NFUNM056/museum )
 
 #### 1. 登录授权页面
 
@@ -86,6 +86,7 @@
 ![二维码扫描.png](https://github.com/NFUNM056/museum/blob/master/saomiao.png "saomiao.png")
 **二维码扫描中**
 
+
 ![二维码扫描结果.png](https://github.com/NFUNM056/museum/blob/master/result.png "result.png")
 **扫描结果**
 
@@ -98,12 +99,13 @@
 ![语音输入藏品名称.png](https://github.com/NFUNM056/museum/blob/master/speak.png "speak.png")
 
 ![语音输入结果.png](https://github.com/NFUNM056/museum/blob/master/speakresult.png "speakresult.png")
-**搜索：语音输入搜索**
+
 
 
 - 语音输入反馈
+
 ![语音输入反馈.png](https://github.com/NFUNM056/museum/blob/master/response.png "response.png")
-**反馈：语音识别文字**
+
 
 
 
@@ -116,10 +118,11 @@
 
 - 产品功能结构图
 
+![产品功能结构图.png](https://github.com/NFUNM056/museum/blob/master/function.png "function.png")
 
 - 产品信息结构图
 
+![产品信息结构图.png](https://github.com/NFUNM056/museum/blob/master/message.png "message.png")
 
-- 产品流程图
 
 
