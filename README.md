@@ -73,6 +73,8 @@
 
 - [原型文档下载区]( https://gitee.com/NFUNM056/museum )
 
+- PS 如果以下图片无法查看，可点击上面的<原型文档交互展示>的超链接查看具体内容
+
 #### 1. 登录授权页面
 
 ![load.png](https://github.com/NFUNM056/museum/blob/master/load.png "load.png")
